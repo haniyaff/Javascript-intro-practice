@@ -16,5 +16,6 @@
 
 // console.warn("Warning starnger danger!");
 // console.error("ERROR ERROR ERROR ERROR");
-
+--
 document.getElementById("p1").innerHTML = "My name is Haniya"
+document.getElementById("p1").innerHTML = "My name is Amber"
